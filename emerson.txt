@@ -6,6 +6,6 @@
 My <a href="https://github.com/emersonmendes" target="_blank">GitHub</a>
 My <a href="https://www.linkedin.com/in/emersonemendes/" target="_blank">Linkedin</a>
 
-My favorite code quote, "<span id="k">“Code is like humor. When you have to explain it, it’s bad.” — Cory House</span>".
+My favorite code quote, “<span id="k">Code is like humor. When you have to explain it, it’s bad.</span>” — Cory House.
 
 <p>Cheers!</p>
