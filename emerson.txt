@@ -3,7 +3,6 @@
 
 My favorite code quote, "<span id="k">Quote you like</span>".
 
-Hey There! This is my <a href="https://github.com/emersonmendes">github</a>
-<p>You can introduce yourself here.</p> 
+Hey There! This is my <a href="https://github.com/emersonmendes">GitHub</a>
 
 <p>Cheers!</p>
