@@ -1,5 +1,4 @@
-<span id="a">emerson@mendes</span>:<span id="b">~</span><span id="c">$</span> cd /home
-<span id="a">emerson@mendes</span>:<span id="b">~</span><span id="c">$</span> cd /emerson
+<span id="a">emerson@mendes</span>:<span id="b">~</span><span id="c">$</span> cd /home/emerson
 <span id="a">emerson@mendes</span>:<span id="b">~</span><span id="c">$</span> cd /about_me
 <span id="a">emerson@mendes</span>:<span id="b">~</span><span id="c">$</span> cat emerson.txt<br/><br/>
 
