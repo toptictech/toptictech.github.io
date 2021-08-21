@@ -84,28 +84,28 @@ var Typer = {
 }
 
 function replaceUrls(text) {
-	var http = text.indexOf("http://");
-	var space = text.indexOf(".me ", http);
-	
-	if (space != -1) { 
-		var url = text.slice(http, space-1);
-		return text.replace(url, "<a href=\""  + url + "\">" + url + "</a>");
-	} 
-	
-	else {
-		return text
-	}
+    var http = text.indexOf("http://");
+    var space = text.indexOf(".me ", http);
+
+    if (space != -1) {
+        var url = text.slice(http, space - 1);
+        return text.replace(url, "<a href=\"" + url + "\">" + url + "</a>");
+    }
+
+    else {
+        return text
+    }
 }
 
-Typer.speed=3;
-Typer.file="emerson.txt";
+Typer.speed = 3;
+Typer.file = "emerson.txt";
 Typer.init();
- 
+
 var timer = setInterval("t();", 30);
 function t() {
-	Typer.addText({"keyCode": 123748});
-	
-	if (Typer.index > Typer.text.length) {
-		clearInterval(timer);
-	}
+    Typer.addText({ "keyCode": 123748 });
+
+    if (Typer.index > Typer.text.length) {
+        clearInterval(timer);
+    }
 }
