@@ -3,7 +3,9 @@
 <span id="a">emerson@mendes</span>:<span id="b">~</span><span id="c">$</span> cd /about_me
 <span id="a">emerson@mendes</span>:<span id="b">~</span><span id="c">$</span> cat emerson.txt<br/><br/>
 
-Hey There! This is my <a href="https://github.com/emersonmendes">GitHub</a>
+<p>Hey There!</p> 
+<p>My <a href="https://github.com/emersonmendes">GitHub</a></p>
+<p>My <a href="https://www.linkedin.com/in/emersonemendes/">Linkedin</a></p>
 
 My favorite code quote, "<span id="k">Quote you like</span>".
 
