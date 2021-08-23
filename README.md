@@ -1,4 +1,4 @@
 # emersonmendes.github.io
 
-[https://emersonmendes.github.io/](https://emersonmendes.github.io/){:target="_blank" rel="noopener"}
+[https://emersonmendes.github.io/](https://emersonmendes.github.io/)
 
