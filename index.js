@@ -103,14 +103,16 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = "emerson.txt";
+Typer.file = "toptic.txt";
 Typer.init();
 
 var timer = setInterval("t();", 30);
 function t() {
+
     Typer.addText({ "keyCode": 123748 });
 
     if (Typer.index > Typer.text.length) {
         clearInterval(timer);
     }
+
 }
