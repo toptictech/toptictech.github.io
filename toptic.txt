@@ -3,7 +3,7 @@
 <span id="a">toptic@toptic.com.br</span>:<span id="b">~</span><span id="c">$</span> cat toptic.txt<br/>
 
 <p>Hey There!</p> 
-<p>I am TOPTIC :)</p> 
+<p>We are TOPTIC :)</p> 
 This is my <a href="https://github.com/toptictech" target="_blank">GitHub</a>
 This is my <a href="https://www.linkedin.com/company/toptic/" target="_blank">Linkedin</a>
 
